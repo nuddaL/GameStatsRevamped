@@ -1,0 +1,3 @@
+if game.PlaceId == 6872265039 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nuddaL/GameStatsRevamped/scripts/BedWars"))()
+end
