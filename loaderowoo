@@ -9,3 +9,7 @@ end
 if game.PlaceId == 6872265039 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nuddaL/GameStatsRevamped/scripts/Build%20A%20Boat%20For%20Treasure"))()
 end
+
+if game.PlaceId == 6872265039 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nuddaL/GameStatsRevamped/scripts/Aeronautica"))()
+end
