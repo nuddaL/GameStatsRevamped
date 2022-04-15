@@ -22,3 +22,8 @@ if identifyexecutor() == "Electron" then
   wait(15.2)
 	print('Playing with electron')
 end
+
+if identifyexecutor() == "Synapse", "Synapse X" then
+  wait(15.2)
+	print('Playing with synapse x')
+end
