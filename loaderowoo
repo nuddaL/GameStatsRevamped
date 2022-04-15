@@ -13,3 +13,5 @@ end
 if game.PlaceId == 6872265039 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nuddaL/GameStatsRevamped/scripts/Aeronautica"))()
 end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nuddaL/GameStatsRevamped/offhandscripts/executordetector"))()
