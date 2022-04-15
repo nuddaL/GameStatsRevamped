@@ -1,0 +1,24 @@
+if identifyexecutor() == "ScriptWare" then
+  wait(15.2)
+	print('Playing with scriptware')
+end
+
+if identifyexecutor() == "Krnl" then
+  wait(15.2)
+	print('Playing with krnl')
+end
+
+if identifyexecutor() == "Fluxus" then
+  wait(15.2)
+	print('Playing with fluxus')
+end
+
+if identifyexecutor() == "Krnl" then
+  wait(15.2)
+	print('Playing with krnl')
+end
+
+if identifyexecutor() == "Electron" then
+  wait(15.2)
+	print('Playing with electron')
+end
