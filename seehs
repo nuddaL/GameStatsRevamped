@@ -1,0 +1,25 @@
+--Game Name : raise a floppa ðŸ”‘
+--Game Link : https://www.roblox.com/games/9203864304
+--[[Script Options :
+	[+] Auto Click Floppa
+	[+] Auto Collect Money
+	[+] Auto Request Rent
+	[+] Auto Request Raise
+	[+] Auto Buy
+	[+] Instant Max Alter
+	[+] Auto Praise Alter
+	[+] Auto Feed Floppa
+	[+] Auto Feed Baby Floppas
+	[+] Auto Clean Floppa Poop
+	[+] Auto Fertalize Cat Nip Plant
+	[+] Teleport to Backroom
+	[+] Bingus ESP
+]]
+
+--Script :
+_G.RedGUI = true
+_G.Theme = "Dark" -- Must disable or remove _G.RedGUI to use
+--Themes: Light, Dark, Mocha, Aqua and Jester
+_G.V3rmillion = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/raiseafloppa.lua"))()
